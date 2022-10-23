@@ -27,3 +27,7 @@ _Особенности добавления_:
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/a1lijb108o2av0t3/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-forms-steps/branch/main)
+
+[GH-Pages](https://nikitakurys.github.io/ra-forms-steps/)
+
